@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lachen/static/css/main.1e6a1302.css",
+    "main.css": "/Lachen/static/css/main.bdeb3bd4.css",
     "main.js": "/Lachen/static/js/main.571885f7.js",
     "static/js/787.19c84e92.chunk.js": "/Lachen/static/js/787.19c84e92.chunk.js",
     "index.html": "/Lachen/index.html",
-    "main.1e6a1302.css.map": "/Lachen/static/css/main.1e6a1302.css.map",
+    "main.bdeb3bd4.css.map": "/Lachen/static/css/main.bdeb3bd4.css.map",
     "main.571885f7.js.map": "/Lachen/static/js/main.571885f7.js.map",
     "787.19c84e92.chunk.js.map": "/Lachen/static/js/787.19c84e92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e6a1302.css",
+    "static/css/main.bdeb3bd4.css",
     "static/js/main.571885f7.js"
   ]
 }
